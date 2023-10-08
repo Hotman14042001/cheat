@@ -8,6 +8,6 @@ cd cheat
 
 python2 cheat.py
 
-chmod +x cheat_script.sh
 
-./cheat_script.sh
+
+
